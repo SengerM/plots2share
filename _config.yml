@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Beta Timing Setup and Data Processing at UZH
 description: 
+github:
+  is_project_page: false
